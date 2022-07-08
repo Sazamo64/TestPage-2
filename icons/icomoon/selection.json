@@ -1,0 +1,898 @@
+{
+  "IcoMoonType": "selection",
+  "icons": [
+    {
+      "icon": {
+        "paths": [
+          "M512 1024c282.77 0 512-229.23 512-512s-229.23-512-512-512c-282.77 0-512 229.23-512 512s229.23 512 512 512z",
+          "M245.029 289.646h533.943",
+          "M334.263 734.355c14.033 0 27.749-4.161 39.417-11.956s20.761-18.876 26.131-31.841c5.37-12.964 6.774-27.23 4.037-40.993s-9.494-26.404-19.417-36.327c-9.922-9.922-22.565-16.679-36.327-19.417s-28.028-1.333-40.993 4.037c-12.963 5.37-24.044 14.464-31.841 26.132s-11.956 25.384-11.956 39.416c0 9.317 1.835 18.543 5.4 27.151s8.792 16.429 15.38 23.017c6.588 6.587 14.41 11.814 23.017 15.38s17.834 5.4 27.151 5.4v0z",
+          "M334.263 592.458v-303.543",
+          "M476.892 734.355c14-0.145 27.644-4.428 39.215-12.311s20.55-19.014 25.809-31.989c5.258-12.977 6.559-27.218 3.739-40.933s-9.634-26.287-19.585-36.136c-9.951-9.85-22.593-16.534-36.335-19.214s-27.97-1.232-40.892 4.159c-12.921 5.391-23.959 14.484-31.723 26.135s-11.907 25.339-11.908 39.339c-0.001 9.379 1.858 18.665 5.469 27.321s8.903 16.51 15.569 23.108c6.665 6.598 14.574 11.809 23.266 15.331s17.997 5.286 27.376 5.19v0z",
+          "M476.892 592.458v-303.543",
+          "M768 572.71c7.171 12.019 10.626 25.891 9.932 39.87s-5.508 27.439-13.834 38.688c-8.326 11.25-19.794 19.786-32.961 24.533s-27.442 5.495-41.031 2.149c-13.59-3.347-25.887-10.638-35.342-20.957s-15.648-23.203-17.799-37.032c-2.15-13.831-0.163-27.987 5.714-40.689s15.379-23.383 27.311-30.698c7.961-4.939 16.821-8.252 26.069-9.749s18.702-1.147 27.813 1.030c9.113 2.176 17.704 6.135 25.278 11.648s13.981 12.474 18.851 20.476v0.732z",
+          "M681.691 543.453l-100.205-253.806"
+        ],
+        "attrs": [
+          {},
+          {
+            "fill": "none",
+            "stroke": "rgb(255, 255, 255)",
+            "strokeLinejoin": "miter",
+            "strokeLinecap": "square",
+            "strokeMiterlimit": "4",
+            "strokeWidth": 31.941284403669727
+          },
+          {
+            "fill": "none",
+            "stroke": "rgb(255, 255, 255)",
+            "strokeLinejoin": "miter",
+            "strokeLinecap": "square",
+            "strokeMiterlimit": "4",
+            "strokeWidth": 31.941284403669727
+          },
+          {
+            "fill": "none",
+            "stroke": "rgb(255, 255, 255)",
+            "strokeLinejoin": "miter",
+            "strokeLinecap": "butt",
+            "strokeMiterlimit": "4",
+            "strokeWidth": 31.941284403669727
+          },
+          {
+            "fill": "none",
+            "stroke": "rgb(255, 255, 255)",
+            "strokeLinejoin": "miter",
+            "strokeLinecap": "square",
+            "strokeMiterlimit": "4",
+            "strokeWidth": 31.941284403669727
+          },
+          {
+            "fill": "none",
+            "stroke": "rgb(255, 255, 255)",
+            "strokeLinejoin": "miter",
+            "strokeLinecap": "butt",
+            "strokeMiterlimit": "4",
+            "strokeWidth": 31.941284403669727
+          },
+          {
+            "fill": "none",
+            "stroke": "rgb(255, 255, 255)",
+            "strokeLinejoin": "miter",
+            "strokeLinecap": "square",
+            "strokeMiterlimit": "4",
+            "strokeWidth": 31.941284403669727
+          },
+          {
+            "fill": "none",
+            "stroke": "rgb(255, 255, 255)",
+            "strokeLinejoin": "miter",
+            "strokeLinecap": "butt",
+            "strokeMiterlimit": "4",
+            "strokeWidth": 31.941284403669727
+          }
+        ],
+        "isMulticolor": false,
+        "isMulticolor2": true,
+        "grid": 0,
+        "tags": [
+          "ball"
+        ]
+      },
+      "attrs": [
+        {},
+        {
+          "fill": "none",
+          "stroke": "rgb(255, 255, 255)",
+          "strokeLinejoin": "miter",
+          "strokeLinecap": "square",
+          "strokeMiterlimit": "4",
+          "strokeWidth": 31.941284403669727
+        },
+        {
+          "fill": "none",
+          "stroke": "rgb(255, 255, 255)",
+          "strokeLinejoin": "miter",
+          "strokeLinecap": "square",
+          "strokeMiterlimit": "4",
+          "strokeWidth": 31.941284403669727
+        },
+        {
+          "fill": "none",
+          "stroke": "rgb(255, 255, 255)",
+          "strokeLinejoin": "miter",
+          "strokeLinecap": "butt",
+          "strokeMiterlimit": "4",
+          "strokeWidth": 31.941284403669727
+        },
+        {
+          "fill": "none",
+          "stroke": "rgb(255, 255, 255)",
+          "strokeLinejoin": "miter",
+          "strokeLinecap": "square",
+          "strokeMiterlimit": "4",
+          "strokeWidth": 31.941284403669727
+        },
+        {
+          "fill": "none",
+          "stroke": "rgb(255, 255, 255)",
+          "strokeLinejoin": "miter",
+          "strokeLinecap": "butt",
+          "strokeMiterlimit": "4",
+          "strokeWidth": 31.941284403669727
+        },
+        {
+          "fill": "none",
+          "stroke": "rgb(255, 255, 255)",
+          "strokeLinejoin": "miter",
+          "strokeLinecap": "square",
+          "strokeMiterlimit": "4",
+          "strokeWidth": 31.941284403669727
+        },
+        {
+          "fill": "none",
+          "stroke": "rgb(255, 255, 255)",
+          "strokeLinejoin": "miter",
+          "strokeLinecap": "butt",
+          "strokeMiterlimit": "4",
+          "strokeWidth": 31.941284403669727
+        }
+      ],
+      "properties": {
+        "order": 10,
+        "id": 2,
+        "name": "ball",
+        "prevSize": 32
+      },
+      "setIdx": 0,
+      "setId": 3,
+      "iconIdx": 0
+    },
+    {
+      "icon": {
+        "paths": [
+          "M512 1024c282.77 0 512-229.23 512-512s-229.23-512-512-512c-282.77 0-512 229.23-512 512s229.23 512 512 512z",
+          "M649.508 494.225l30.72 284.453h-328.119l30.647-284.453",
+          "M659.091 583.097h-286.062",
+          "M285.257 494.225h462.263",
+          "M782.628 245.321l-248.685 160.036",
+          "M302.812 280.867h71.168",
+          "M338.359 245.321v71.095",
+          "M391.753 387.656h71.095",
+          "M427.3 352.037v71.095"
+        ],
+        "attrs": [
+          {},
+          {
+            "fill": "none",
+            "stroke": "rgb(255, 255, 255)",
+            "strokeLinejoin": "miter",
+            "strokeLinecap": "butt",
+            "strokeMiterlimit": "4",
+            "strokeWidth": 31.941284403669727
+          },
+          {
+            "fill": "none",
+            "stroke": "rgb(255, 255, 255)",
+            "strokeLinejoin": "miter",
+            "strokeLinecap": "butt",
+            "strokeMiterlimit": "4",
+            "strokeWidth": 31.941284403669727
+          },
+          {
+            "fill": "none",
+            "stroke": "rgb(255, 255, 255)",
+            "strokeLinejoin": "miter",
+            "strokeLinecap": "square",
+            "strokeMiterlimit": "4",
+            "strokeWidth": 31.941284403669727
+          },
+          {
+            "fill": "none",
+            "stroke": "rgb(255, 255, 255)",
+            "strokeLinejoin": "miter",
+            "strokeLinecap": "square",
+            "strokeMiterlimit": "4",
+            "strokeWidth": 31.941284403669727
+          },
+          {
+            "fill": "none",
+            "stroke": "rgb(255, 255, 255)",
+            "strokeLinejoin": "miter",
+            "strokeLinecap": "square",
+            "strokeMiterlimit": "4",
+            "strokeWidth": 31.941284403669727
+          },
+          {
+            "fill": "none",
+            "stroke": "rgb(255, 255, 255)",
+            "strokeLinejoin": "miter",
+            "strokeLinecap": "square",
+            "strokeMiterlimit": "4",
+            "strokeWidth": 31.941284403669727
+          },
+          {
+            "fill": "none",
+            "stroke": "rgb(255, 255, 255)",
+            "strokeLinejoin": "miter",
+            "strokeLinecap": "square",
+            "strokeMiterlimit": "4",
+            "strokeWidth": 31.941284403669727
+          },
+          {
+            "fill": "none",
+            "stroke": "rgb(255, 255, 255)",
+            "strokeLinejoin": "miter",
+            "strokeLinecap": "square",
+            "strokeMiterlimit": "4",
+            "strokeWidth": 31.941284403669727
+          }
+        ],
+        "isMulticolor": false,
+        "isMulticolor2": true,
+        "grid": 0,
+        "tags": [
+          "hat"
+        ]
+      },
+      "attrs": [
+        {},
+        {
+          "fill": "none",
+          "stroke": "rgb(255, 255, 255)",
+          "strokeLinejoin": "miter",
+          "strokeLinecap": "butt",
+          "strokeMiterlimit": "4",
+          "strokeWidth": 31.941284403669727
+        },
+        {
+          "fill": "none",
+          "stroke": "rgb(255, 255, 255)",
+          "strokeLinejoin": "miter",
+          "strokeLinecap": "butt",
+          "strokeMiterlimit": "4",
+          "strokeWidth": 31.941284403669727
+        },
+        {
+          "fill": "none",
+          "stroke": "rgb(255, 255, 255)",
+          "strokeLinejoin": "miter",
+          "strokeLinecap": "square",
+          "strokeMiterlimit": "4",
+          "strokeWidth": 31.941284403669727
+        },
+        {
+          "fill": "none",
+          "stroke": "rgb(255, 255, 255)",
+          "strokeLinejoin": "miter",
+          "strokeLinecap": "square",
+          "strokeMiterlimit": "4",
+          "strokeWidth": 31.941284403669727
+        },
+        {
+          "fill": "none",
+          "stroke": "rgb(255, 255, 255)",
+          "strokeLinejoin": "miter",
+          "strokeLinecap": "square",
+          "strokeMiterlimit": "4",
+          "strokeWidth": 31.941284403669727
+        },
+        {
+          "fill": "none",
+          "stroke": "rgb(255, 255, 255)",
+          "strokeLinejoin": "miter",
+          "strokeLinecap": "square",
+          "strokeMiterlimit": "4",
+          "strokeWidth": 31.941284403669727
+        },
+        {
+          "fill": "none",
+          "stroke": "rgb(255, 255, 255)",
+          "strokeLinejoin": "miter",
+          "strokeLinecap": "square",
+          "strokeMiterlimit": "4",
+          "strokeWidth": 31.941284403669727
+        },
+        {
+          "fill": "none",
+          "stroke": "rgb(255, 255, 255)",
+          "strokeLinejoin": "miter",
+          "strokeLinecap": "square",
+          "strokeMiterlimit": "4",
+          "strokeWidth": 31.941284403669727
+        }
+      ],
+      "properties": {
+        "order": 11,
+        "id": 1,
+        "name": "hat",
+        "prevSize": 32
+      },
+      "setIdx": 0,
+      "setId": 3,
+      "iconIdx": 1
+    },
+    {
+      "icon": {
+        "paths": [
+          "M512 1024c282.77 0 512-229.23 512-512s-229.23-512-512-512c-282.77 0-512 229.23-512 512s229.23 512 512 512z",
+          "M468.115 519.316l-234.789 235.52",
+          "M370.103 244.298h-71.68",
+          "M334.263 208.459v71.68",
+          "M743.132 670.72h-70.949",
+          "M707.291 635.615v70.948",
+          "M582.948 261.853v-53.394",
+          "M778.971 422.036h-53.394",
+          "M473.235 514.196l-107.52-24.869 94.355-57.051-9.509-110.446 83.383 72.412 102.4-42.423-43.154 101.668 72.411 83.383-110.445-9.508-57.052 94.355-24.868-107.52z"
+        ],
+        "attrs": [
+          {},
+          {
+            "fill": "none",
+            "stroke": "rgb(255, 255, 255)",
+            "strokeLinejoin": "miter",
+            "strokeLinecap": "butt",
+            "strokeMiterlimit": "4",
+            "strokeWidth": 31.941284403669727
+          },
+          {
+            "fill": "none",
+            "stroke": "rgb(255, 255, 255)",
+            "strokeLinejoin": "miter",
+            "strokeLinecap": "square",
+            "strokeMiterlimit": "4",
+            "strokeWidth": 31.941284403669727
+          },
+          {
+            "fill": "none",
+            "stroke": "rgb(255, 255, 255)",
+            "strokeLinejoin": "miter",
+            "strokeLinecap": "square",
+            "strokeMiterlimit": "4",
+            "strokeWidth": 31.941284403669727
+          },
+          {
+            "fill": "none",
+            "stroke": "rgb(255, 255, 255)",
+            "strokeLinejoin": "miter",
+            "strokeLinecap": "square",
+            "strokeMiterlimit": "4",
+            "strokeWidth": 31.941284403669727
+          },
+          {
+            "fill": "none",
+            "stroke": "rgb(255, 255, 255)",
+            "strokeLinejoin": "miter",
+            "strokeLinecap": "square",
+            "strokeMiterlimit": "4",
+            "strokeWidth": 31.941284403669727
+          },
+          {
+            "fill": "none",
+            "stroke": "rgb(255, 255, 255)",
+            "strokeLinejoin": "miter",
+            "strokeLinecap": "square",
+            "strokeMiterlimit": "4",
+            "strokeWidth": 31.941284403669727
+          },
+          {
+            "fill": "none",
+            "stroke": "rgb(255, 255, 255)",
+            "strokeLinejoin": "miter",
+            "strokeLinecap": "square",
+            "strokeMiterlimit": "4",
+            "strokeWidth": 31.941284403669727
+          },
+          {
+            "fill": "none",
+            "stroke": "rgb(255, 255, 255)",
+            "strokeLinejoin": "miter",
+            "strokeLinecap": "square",
+            "strokeMiterlimit": "4",
+            "strokeWidth": 31.941284403669727
+          }
+        ],
+        "isMulticolor": false,
+        "isMulticolor2": true,
+        "grid": 0,
+        "tags": [
+          "magic"
+        ]
+      },
+      "attrs": [
+        {},
+        {
+          "fill": "none",
+          "stroke": "rgb(255, 255, 255)",
+          "strokeLinejoin": "miter",
+          "strokeLinecap": "butt",
+          "strokeMiterlimit": "4",
+          "strokeWidth": 31.941284403669727
+        },
+        {
+          "fill": "none",
+          "stroke": "rgb(255, 255, 255)",
+          "strokeLinejoin": "miter",
+          "strokeLinecap": "square",
+          "strokeMiterlimit": "4",
+          "strokeWidth": 31.941284403669727
+        },
+        {
+          "fill": "none",
+          "stroke": "rgb(255, 255, 255)",
+          "strokeLinejoin": "miter",
+          "strokeLinecap": "square",
+          "strokeMiterlimit": "4",
+          "strokeWidth": 31.941284403669727
+        },
+        {
+          "fill": "none",
+          "stroke": "rgb(255, 255, 255)",
+          "strokeLinejoin": "miter",
+          "strokeLinecap": "square",
+          "strokeMiterlimit": "4",
+          "strokeWidth": 31.941284403669727
+        },
+        {
+          "fill": "none",
+          "stroke": "rgb(255, 255, 255)",
+          "strokeLinejoin": "miter",
+          "strokeLinecap": "square",
+          "strokeMiterlimit": "4",
+          "strokeWidth": 31.941284403669727
+        },
+        {
+          "fill": "none",
+          "stroke": "rgb(255, 255, 255)",
+          "strokeLinejoin": "miter",
+          "strokeLinecap": "square",
+          "strokeMiterlimit": "4",
+          "strokeWidth": 31.941284403669727
+        },
+        {
+          "fill": "none",
+          "stroke": "rgb(255, 255, 255)",
+          "strokeLinejoin": "miter",
+          "strokeLinecap": "square",
+          "strokeMiterlimit": "4",
+          "strokeWidth": 31.941284403669727
+        },
+        {
+          "fill": "none",
+          "stroke": "rgb(255, 255, 255)",
+          "strokeLinejoin": "miter",
+          "strokeLinecap": "square",
+          "strokeMiterlimit": "4",
+          "strokeWidth": 31.941284403669727
+        }
+      ],
+      "properties": {
+        "order": 12,
+        "id": 0,
+        "name": "magic",
+        "prevSize": 32
+      },
+      "setIdx": 0,
+      "setId": 3,
+      "iconIdx": 2
+    },
+    {
+      "icon": {
+        "paths": [
+          "M597.333 726.187h-170.667v298.667h170.667v-298.667z",
+          "M597.333-0.854h-170.667v298.667h170.667v-298.667z",
+          "M297.814 426.667h-298.667v170.667h298.667v-170.667z",
+          "M1024.853 426.667h-298.667v170.667h298.667v-170.667z"
+        ],
+        "attrs": [
+          {},
+          {},
+          {},
+          {}
+        ],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "cross1"
+        ],
+        "colorPermutations": {
+          "255255255152971121": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      },
+      "attrs": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "properties": {
+        "order": 2,
+        "id": 7,
+        "name": "cross1",
+        "prevSize": 32
+      },
+      "setIdx": 1,
+      "setId": 2,
+      "iconIdx": 0
+    },
+    {
+      "icon": {
+        "paths": [
+          "M597.333 726.187h-170.667v298.667h170.667v-298.667z",
+          "M597.333-0.854h-170.667v298.667h170.667v-298.667z",
+          "M297.814 426.667h-298.667v170.667h298.667v-170.667z",
+          "M1024.853 426.667h-298.667v170.667h298.667v-170.667z",
+          "M299.999 603.247l-211.189 211.191 120.68 120.678 211.189-211.187-120.68-120.683z",
+          "M814.558 88.884l-211.187 211.189 120.678 120.68 211.191-211.189-120.683-120.68z",
+          "M209.587 88.784l-120.68 120.68 211.189 211.189 120.68-120.68-211.189-211.189z",
+          "M723.951 603.345l-120.678 120.683 211.187 211.187 120.683-120.678-211.191-211.191z"
+        ],
+        "attrs": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "cross2"
+        ],
+        "colorPermutations": {
+          "255255255152971121": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      },
+      "attrs": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "properties": {
+        "order": 3,
+        "id": 6,
+        "name": "cross2",
+        "prevSize": 32
+      },
+      "setIdx": 1,
+      "setId": 2,
+      "iconIdx": 1
+    },
+    {
+      "icon": {
+        "paths": [
+          "M391.189 512.38l-366.262 366.259 120.679 120.683 366.261-366.263-120.678-120.678z",
+          "M878.443 24.68l-366.263 366.262 120.678 120.678 366.263-366.26-120.678-120.68z",
+          "M146.542 24.425l-120.68 120.68 366.263 366.264 120.678-120.681-366.26-366.263z",
+          "M633.207 511.253l-120.683 120.678 366.263 366.263 120.678-120.678-366.259-366.263z"
+        ],
+        "attrs": [
+          {},
+          {},
+          {},
+          {}
+        ],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "cross3"
+        ],
+        "colorPermutations": {
+          "255255255152971121": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      },
+      "attrs": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "properties": {
+        "order": 4,
+        "id": 5,
+        "name": "cross3",
+        "prevSize": 32
+      },
+      "setIdx": 1,
+      "setId": 2,
+      "iconIdx": 2
+    },
+    {
+      "icon": {
+        "paths": [
+          "M597.333 0h-170.667v170.667h170.667v-170.667z",
+          "M1024 425.812h-170.667v170.668h170.667v-170.668z",
+          "M170.667 425.812h-170.667v170.668h170.667v-170.668z",
+          "M597.333 853.333h-170.667v170.667h170.667v-170.667z",
+          "M813.679 89.732l-120.683 120.68 120.683 120.68 120.678-120.68-120.678-120.68z",
+          "M814.037 692.8l-120.678 120.678 120.678 120.678 120.683-120.678-120.683-120.678z",
+          "M210.862 89.065l-120.679 120.679 120.679 120.68 120.68-120.68-120.68-120.679z",
+          "M210.37 692.911l-120.68 120.678 120.68 120.678 120.68-120.678-120.68-120.678z"
+        ],
+        "attrs": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "cross4"
+        ],
+        "colorPermutations": {
+          "255255255152971121": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      },
+      "attrs": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "properties": {
+        "order": 5,
+        "id": 4,
+        "name": "cross4",
+        "prevSize": 32
+      },
+      "setIdx": 1,
+      "setId": 2,
+      "iconIdx": 3
+    },
+    {
+      "icon": {
+        "paths": [
+          "M597.333 597.333h-170.667v426.667h170.667v-426.667z",
+          "M597.333 0h-170.667v426.667h170.667v-426.667z",
+          "M426.667 425.812h-426.667v170.668h426.667v-170.668z",
+          "M1024 425.812h-426.667v170.668h426.667v-170.668z"
+        ],
+        "attrs": [
+          {},
+          {},
+          {},
+          {}
+        ],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "cross5"
+        ],
+        "colorPermutations": {
+          "255255255152971121": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      },
+      "attrs": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "properties": {
+        "order": 6,
+        "id": 3,
+        "name": "cross5",
+        "prevSize": 32
+      },
+      "setIdx": 1,
+      "setId": 2,
+      "iconIdx": 4
+    },
+    {
+      "icon": {
+        "paths": [
+          "M723.699 603.669l-120.678 120.678 275.149 275.149 120.678-120.678-275.149-275.149z",
+          "M145.581 24.805l-120.68 120.68 275.149 275.149 120.68-120.679-275.149-275.15z",
+          "M299.977 603.298l-275.149 275.149 120.68 120.683 275.149-275.153-120.68-120.678z",
+          "M878.238 25.179l-275.149 275.149 120.678 120.68 275.149-275.15-120.678-120.679z"
+        ],
+        "attrs": [
+          {},
+          {},
+          {},
+          {}
+        ],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "cross6"
+        ],
+        "colorPermutations": {
+          "255255255152971121": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      },
+      "attrs": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "properties": {
+        "order": 7,
+        "id": 2,
+        "name": "cross6",
+        "prevSize": 32
+      },
+      "setIdx": 1,
+      "setId": 2,
+      "iconIdx": 5
+    },
+    {
+      "icon": {
+        "paths": [
+          "M512 1024c282.767 0 512-229.233 512-512 0-282.77-229.233-512-512-512-282.77 0-512 229.23-512 512 0 282.767 229.23 512 512 512z",
+          "M403.2 627.2l-134.4-134.4-44.8 44.8 179.2 179.2 384-384-44.8-44.8-339.2 339.2z"
+        ],
+        "attrs": [
+          {
+            "fill": "rgb(52, 97, 112)"
+          },
+          {
+            "fill": "rgb(255, 255, 255)"
+          }
+        ],
+        "isMulticolor": true,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "OK"
+        ],
+        "colorPermutations": {
+          "255255255152971121": [
+            {
+              "f": 0
+            },
+            {
+              "f": 1
+            }
+          ]
+        }
+      },
+      "attrs": [
+        {
+          "fill": "rgb(52, 97, 112)"
+        },
+        {
+          "fill": "rgb(255, 255, 255)"
+        }
+      ],
+      "properties": {
+        "order": 8,
+        "id": 1,
+        "name": "OK",
+        "prevSize": 32
+      },
+      "setIdx": 1,
+      "setId": 2,
+      "iconIdx": 6
+    },
+    {
+      "icon": {
+        "paths": [
+          "M512 85.333c-113.159 0-221.683 44.952-301.699 124.968s-124.968 188.54-124.968 301.699c0 113.161 44.952 221.683 124.968 301.7 80.016 80.013 188.54 124.966 301.699 124.966 113.161 0 221.683-44.954 301.7-124.966 80.013-80.017 124.966-188.54 124.966-301.7 0-113.159-44.954-221.683-124.966-301.699-80.017-80.015-188.54-124.968-301.7-124.968zM469.333 850.347c-47.274-6.007-92.766-21.85-133.548-46.502s-75.95-57.57-103.24-96.636c-27.29-39.066-46.098-83.413-55.212-130.189s-8.333-94.938 2.292-141.393l204.373 204.373v42.667c0 46.933 38.4 85.333 85.333 85.333v82.347zM763.733 741.973c-11.093-34.56-42.667-59.307-81.067-59.307h-42.667v-128c0-11.315-4.497-22.17-12.497-30.17s-18.854-12.497-30.17-12.497h-256v-85.333h85.333c11.315 0 22.17-4.495 30.17-12.497s12.497-18.854 12.497-30.17v-85.333h85.333c22.63 0 44.335-8.99 60.339-24.994s24.994-37.708 24.994-60.34v-17.493c50.94 20.707 96.119 53.413 131.699 95.336s60.506 91.821 72.657 145.449c12.151 53.628 11.166 109.393-2.871 162.56-14.037 53.163-40.713 102.148-77.751 142.788z"
+        ],
+        "attrs": [
+          {}
+        ],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "Planet"
+        ],
+        "colorPermutations": {
+          "255255255152971121": [
+            {}
+          ]
+        }
+      },
+      "attrs": [
+        {}
+      ],
+      "properties": {
+        "order": 9,
+        "id": 0,
+        "name": "Planet",
+        "prevSize": 32
+      },
+      "setIdx": 1,
+      "setId": 2,
+      "iconIdx": 7
+    }
+  ],
+  "height": 1024,
+  "preferences": {
+    "showGlyphs": true,
+    "showQuickUse": true,
+    "showQuickUse2": true,
+    "showSVGs": true,
+    "fontPref": {
+      "prefix": "icon-",
+      "metadata": {
+        "fontFamily": "icomoon"
+      },
+      "metrics": {
+        "emSize": 1024,
+        "baseline": 6.25,
+        "whitespace": 50
+      },
+      "embed": false
+    },
+    "imagePref": {
+      "prefix": "",
+      "png": true,
+      "useClassSelector": true,
+      "color": 0,
+      "bgColor": 16777215,
+      "classSelector": ".icon",
+      "name": "icomoon",
+      "height": 32,
+      "columns": 16,
+      "margin": 16
+    },
+    "historySize": 50,
+    "showCodes": true,
+    "gridSize": 16
+  }
+}
